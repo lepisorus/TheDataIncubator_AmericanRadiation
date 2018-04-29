@@ -1,12 +1,12 @@
 This repository is created for my proposed project for [the data incubator](https://www.thedataincubator.com/).
 
-#American Radiation
+#. American Radiation
 
 The Environmental Protection Agency’s RadNet system “monitors the nation's air, precipitation and drinking water for radiation.” 
 The radiation measurements collected from 130+ stations in all 50 states plus the District of Columbia and Puerto Rico. 
 The goal of my project is two-fold: 
-1) to investigate the changing pattern of radiation level across time (year, month, weekday/weekend, day, time) and space (different US states)
-2) to explore the causing variables to predict radiation level, e.g. air quality, drinking water quality, precipitation, temperature, latitude, longitude, economic development (GDP) etc.
+A. to investigate the changing pattern of radiation level across time (year, month, weekday/weekend, day, time) and space (different US states)
+B. to explore the causing variables to predict radiation level, e.g. air quality, drinking water quality, precipitation, temperature, latitude, longitude, economic development (GDP) etc.
 
 1. data source:
 The data was downloaded from the website of [US Environmental Protection Agency](https://www.epa.gov/radnet/radnet-csv-file-downloads).
